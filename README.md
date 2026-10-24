@@ -15,7 +15,7 @@
 - Learning new technologies in the Apple ecosystem
 
 ### 📫 Connect With Me
-- GitHub: [@YOUR_USERNAME](https://github.com/VuHoangTung)
+- GitHub: (https://github.com/VuHoangTung)
 
 ---
 
